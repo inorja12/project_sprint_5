@@ -11,6 +11,7 @@ Analyze user behavior, purchases, and marketing costs to optimize advertising in
 /datasets/costs_us.csv → Marketing expenses
 
 🛠 Project Steps
+
 🔹 1. Data Preparation
 Load datasets into variables
 
